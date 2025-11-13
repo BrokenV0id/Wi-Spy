@@ -5,4 +5,3 @@ This project will be split up into each feature having its own section while als
 Each feature will be be built either from me or from sources found online or other repositorys.
 
 Features added so far:
-...
